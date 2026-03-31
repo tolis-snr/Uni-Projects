@@ -2,7 +2,7 @@
 
 **Course:** Search Engines and Text Analysis  
 **Department:** Applied Informatics, University of Macedonia  
-**Author:** Apostolos Siniori (ics24123)  
+**Author:** Apostolos Sinioris (ics24123)  
 **Supervisor:** Georgia Koloniari
 
 ---
